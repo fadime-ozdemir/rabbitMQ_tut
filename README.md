@@ -1,5 +1,5 @@
 Rabbit mq
-receive send messages.
+to receive send messages.
 create a channel, then create a NAMED queue if it does not exist, then send or receive message.
 A task is a technical data that is sent to be exchanged.
 A producer is a user application that sends messages.
